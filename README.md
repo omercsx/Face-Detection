@@ -1,2 +1,2 @@
 # Face Detection
- Yüz ve göz algı
+ Yüz ve göz algılama alıştırmalarım
